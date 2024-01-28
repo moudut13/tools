@@ -14,7 +14,7 @@ $ apt-get install toilet <br/>
 $ apt-get install ruby <br/>
 $ gem install lolcat <br/>
 $ apt-get install figlet <br/>
-$ git clone https://github.com/moudut13/tools.git
+$ git clone https://github.com/moudut13/tools.git </br>
 $ ls <br/>
 $ cd tools <br/>
 $ ls <br/> 
