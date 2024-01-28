@@ -1,11 +1,4 @@
-<style>
-    h1   {color: #1e81b0;}
-    h2   {color: #20B2AA;}
-    h3   {color: #2071b2;font-family: Arial, Helvetica, sans-serif;font-size: 30px;}
-</style>
-
-
-<h1 >Install by Tools</h1>
+<h1 style="color:#1e81b0;">Install by Tools</h1>
 Install Tools Tools <br/>
 $ apt-get update <br/>
 $ apt-get upgrade <br/>
@@ -23,7 +16,7 @@ $ chmod +x install.sh <br/>
 $ ./install.sh <br/> 
 $ ./Variant.sh <br/>
 
-<h2> Fiture Tools </h2> 
+<h2 style="color:#20B2AA;"> Fiture Tools </h2> 
 " Menu Installer Tools Variant" <br/>
 {1} Ko-Dork <br/>
 {2} admin-finder blazing fast <br/>
@@ -33,4 +26,4 @@ $ ./Variant.sh <br/>
 
 
 
-<h3>Thanks</h2>
+<h3 style="color: #2071b2;font-family: Arial, Helvetica, sans-serif;font-size: 30px;">Thank You</h2>
